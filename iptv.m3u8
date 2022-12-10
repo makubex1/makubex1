@@ -42,7 +42,7 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
 #EXTINF:0 type="stream" channelId="188" group="General" logo="https://telefullenvivo.com/imagenes/sonyy.png", Sony
 https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Sony/SA_HLS/Sony.m3u8
 #EXTINF:0 type="stream" channelId="383" group="General" logo="https://telefullenvivo.com/imagenes/space.png", Space
-https://edge-live31-sl.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
+https://1240-vos.dtvott.com/DASH/stream_06/Segment-3717433215715990.m4v
 #EXTINF:0 type="stream" channelId="73" group="General" logo="https://telefullenvivo.com/imagenes/syfy.png", SYFY
 https://is-tucuman.cdn.rcs.net.ar/mnp/syfy_hls/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1719" group="General" logo="https://telefullenvivo.com/imagenes/paramount.jpg", Paramount
