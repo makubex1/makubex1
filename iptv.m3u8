@@ -94,7 +94,7 @@ https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
 #EXTINF:0 type="stream" channelId="4668" group="General" logo="https://librefutbol.com/img/TNT_Sports.png", TNT SPORT
 https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
 #EXTINF:0 type="stream" channelId="3802" group="General" logo="https://librefutbol.com/img/logo-canal/TYC_Sports.webp", TyC Sport
-https://edge3118.telecentro.net.ar/bpk-token/2ab@uqdmwwvkoqz0gxuyuuxbzhymnde2atvnuejgj0ca/GlobalManifest.mpd
+https://1240-vos.dtvott.com/DASH/manifest.mpd
 #EXTINF:0 type="stream" channelId="1925" group="General", DeporTV
 https://dtvott-abc.akamaized.net/dash_live_1056/manifest.mpd
 #EXTINF:0 type="stream" channelId="1328" group="General" logo="https://futbolfullenvivo.com/imagenes/foxsports.png", Fox Sport
