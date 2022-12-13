@@ -2,7 +2,7 @@
 #EXTINF:0 type="stream" channelId="2546" group="General" logo="https://telefullenvivo.com/imagenes/america-tv.png", America
 https://is-tucuman.cdn.rcs.net.ar/mnp/america/output.mpd
 #EXTINF:0 type="stream" channelId="1523" group="General" logo="https://telefullenvivo.com/imagenes/tv-publica.png", Tv publica
-https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_480p.m3u8
+https://is-tucuman.cdn.rcs.net.ar/mnp/tvp/output.mpd
 #EXTINF:0 type="stream" channelId="4651" group="General" logo="https://telefullenvivo.com/imagenes/Canal_9.png", Canal 9
 https://is-tucuman.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3789" group="General" logo="https://telefullenvivo.com/imagenes/Telefe.png" size="Small", Telefe
